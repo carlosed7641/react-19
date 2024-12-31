@@ -8,27 +8,51 @@
     },
     {
       "id": "d4e5f6",
-      "name": "Venus",
+      "name": "VENUS",
       "type": "Planeta",
       "distanceFromSun": "108.2 millones de km"
     },
     {
       "id": "g7h8i9",
-      "name": "Tierra",
+      "name": "TIERRA",
       "type": "Planeta",
       "distanceFromSun": "149.6 millones de km"
     },
     {
       "id": "j0k1l2",
-      "name": "Marte",
+      "name": "MARTE",
       "type": "Planeta",
       "distanceFromSun": "227.9 millones de km"
     },
     {
       "id": "m3n4o5",
-      "name": "Júpiter",
+      "name": "JÚPITER",
       "type": "Planeta",
       "distanceFromSun": "778.5 millones de km"
+    },
+    {
+      "id": "3bdb",
+      "name": "URANO",
+      "type": "Planeta",
+      "distanceFromSun": "850 millones de km"
+    },
+    {
+      "id": "274d",
+      "name": "NEPTUNO",
+      "type": "Planeta",
+      "distanceFromSun": "1150 millones de km"
+    },
+    {
+      "id": "e523",
+      "name": "PLUTÓN",
+      "type": "Planeta",
+      "distanceFromSun": "2050 millones de km"
+    },
+    {
+      "id": "fe97",
+      "name": "SOL",
+      "type": "Estrella",
+      "distanceFromSun": "0"
     }
   ]
 }
